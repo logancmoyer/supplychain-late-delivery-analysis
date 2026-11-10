@@ -11,9 +11,13 @@ Defining "Late" - Deliveries are a bit dynamic and in the data set it shows that
 DMAIC Framework - Lean Six Sigma
 
 Define - Problem Statement and Definition of Late ^^^
+
 Measure - Baseline late rate overall and shipping mode, market, region, and category
+
 Analyze - what seperates high late rate groups versus low late rate groups? and the profit gap between late and on time orders.
+
 Improve - recommendations based on the findings
+
 Control - metrics the business should track going forward to evaluate whether project was effectiv
 
 Key Findings (note for myself)
