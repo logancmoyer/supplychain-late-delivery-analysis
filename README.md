@@ -9,6 +9,7 @@ Goal: What drives late deliveries in this data set, region? category?
 Defining "Late" - Deliveries are a bit dynamic and in the data set it shows that anything that is past the expected data is immediately late (technically true but actual tracking numbers include actual times not just dates. For this project I am going to be taking anything that is a day late and beyond.
 
 DMAIC Framework - Lean Six Sigma
+
 Define - Problem Statement and Definition of Late ^^^
 Measure - Baseline late rate overall and shipping mode, market, region, and category
 Analyze - what seperates high late rate groups versus low late rate groups? and the profit gap between late and on time orders.
